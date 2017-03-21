@@ -1,0 +1,241 @@
+<scoverage 
+statement-count="59" statements-invoked="59" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1490134732366">
+    <packages>
+        <package name="com.edu.knoldus" statement-count="59" statements-invoked="59" statement-rate="100.00">
+            <classes>
+                <class 
+                name="com.edu.knoldus.PurchaseRequestHandler" filename="com/edu/knoldus/PurchaseRequestHandler.scala" statement-count="17" statements-invoked="17" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.edu.knoldus/PurchaseRequestHandler/&lt;none&gt;" statement-count="6" statements-invoked="6" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="&lt;none&gt;" start="203" end="203" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="&lt;none&gt;" start="338" end="358" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="&lt;none&gt;" start="270" end="290" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="&lt;none&gt;" start="204" end="218" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="&lt;none&gt;" start="196" end="224" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="&lt;none&gt;" start="322" end="359" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.edu.knoldus/PurchaseRequestHandler/prop" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Object" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="prop" start="612" end="641" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.edu.knoldus/PurchaseRequestHandler/receive" statement-count="10" statements-invoked="10" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="540" end="540" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="421" end="449" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="482" end="498" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="542" end="546" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="441" end="449" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="386" end="386" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="495" end="495" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="482" end="494" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="531" end="539" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseRequestHandler" class-type="Class" full-class-name="com.edu.knoldus.PurchaseRequestHandler" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseRequestHandler.scala" method="receive" start="531" end="546" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="com.edu.knoldus.ValidationActor" filename="com/edu/knoldus/ValidationActor.scala" statement-count="33" statements-invoked="33" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.edu.knoldus/ValidationActor/&lt;none&gt;" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="&lt;none&gt;" start="135" end="163" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="&lt;none&gt;" start="142" end="142" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="&lt;none&gt;" start="143" end="157" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="&lt;none&gt;" start="188" end="192" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.edu.knoldus/ValidationActor/receive" statement-count="28" statements-invoked="28" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="569" end="575" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="272" end="292" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="303" end="427" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="646" end="654" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="331" end="334" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="488" end="496" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="646" end="663" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="270" end="498" line="13" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="426" end="427" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="477" end="496" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="655" end="655" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="219" end="219" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="576" end="595" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="385" end="427" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="251" end="268" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="550" end="596" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="477" end="485" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="305" end="323" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="387" end="411" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="657" end="663" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="486" end="486" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="324" end="330" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="548" end="665" line="17" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="561" end="568" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="411" end="426" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="294" end="428" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="559" end="595" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Class" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="receive" start="272" end="292" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.edu.knoldus/ValidationActor/prop" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="ValidationActor" class-type="Object" full-class-name="com.edu.knoldus.ValidationActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/ValidationActor.scala" method="prop" start="718" end="740" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="com.edu.knoldus.PurchaseActor" filename="com/edu/knoldus/PurchaseActor.scala" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="com.edu.knoldus/PurchaseActor/receive" statement-count="8" statements-invoked="8" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Class" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="receive" start="168" end="168" line="7" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Class" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="receive" start="209" end="230" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Class" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="receive" start="257" end="282" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Class" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="receive" start="198" end="230" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Class" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="receive" start="257" end="286" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Class" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="receive" start="198" end="206" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Class" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="receive" start="207" end="207" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Class" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="receive" start="283" end="283" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="com.edu.knoldus/PurchaseActor/prop" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="PurchaseActor" class-type="Object" full-class-name="com.edu.knoldus.PurchaseActor" source="/home/ankit/Desktop/BuyMeAPhone/src/main/scala-2.11/com/edu/knoldus/PurchaseActor.scala" method="prop" start="365" end="412" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

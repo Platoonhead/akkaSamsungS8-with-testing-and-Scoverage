@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mValidationActorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mValidationActor[0m[0m
+[0m[[0minfo[0m] [0m[32m- must Reply with 'booked' if phones are in stock[0m[0m
+[0m[[0minfo[0m] [0m[32m- must Reply with 'sold' if phones are out of  stock[0m[0m

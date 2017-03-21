@@ -1,0 +1,12 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.edu.knoldus.PurchaseRequestHandlerSpec, org.scalatest.tools.Framework$$anon$1@6f1d2bf0, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.edu.knoldus.ValidationActorSpec, org.scalatest.tools.Framework$$anon$1@6f1d2bf0, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.edu.knoldus.PurchaseActorSpec, org.scalatest.tools.Framework$$anon$1@6f1d2bf0, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 973 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.edu.knoldus.PurchaseActorSpec[0m
+[0m[[0mdebug[0m] [0m	com.edu.knoldus.PurchaseRequestHandlerSpec[0m
+[0m[[0mdebug[0m] [0m	com.edu.knoldus.ValidationActorSpec[0m
